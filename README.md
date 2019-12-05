@@ -1,1 +1,5 @@
 # AirCality
+
+## SENSORES Y MODULOS UTILIZADOS
+
+Sensor MQ-135
