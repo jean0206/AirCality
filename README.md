@@ -13,3 +13,12 @@ Modulo bluetooth HC-06
 ## CONECTAR SENSOR Y MÓDULO A ARDUINO Y PROTOBOARD
 
 ![Sin título-1](https://user-images.githubusercontent.com/42156251/70286811-97f46480-179a-11ea-9510-39b47164fe00.png)
+
+## CONECTAR PROPIA APIKEY A ANDROID STUDIO
+
+Para que el map de la app funcione, se debe usar la propia apikey, para ello debemos cambiar la  linea de codigo que dice PUT YOU APIKEY HERE por tu propia apiKey
+ 
+La cual se encuentra en AirCality\AirCalityApp\app\src\debug\res\values\google_maps_api.xml
+
+![Captura](https://user-images.githubusercontent.com/42156251/70287419-d68b1e80-179c-11ea-8d5b-c238c20d12b3.PNG)
+
