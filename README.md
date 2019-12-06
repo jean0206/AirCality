@@ -11,3 +11,5 @@ Modulo bluetooth HC-06
 ![module-bluetooth-hc-062](https://user-images.githubusercontent.com/42156251/70282974-9e301400-178d-11ea-8b28-8c604dd3fd05.jpg)
 
 ## CONECTAR SENSOR Y MÓDULO A ARDUINO Y PROTOBOARD
+
+![Sin título-1](https://user-images.githubusercontent.com/42156251/70286811-97f46480-179a-11ea-9510-39b47164fe00.png)
